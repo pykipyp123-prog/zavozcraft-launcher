@@ -4,7 +4,7 @@
 
 ## Скачать
 
-[**ZavozLauncher-Setup-1.2.2.exe**](https://github.com/pykipyp123-prog/zavozcraft-launcher/releases/latest/download/ZavozLauncher-Setup-1.2.2.exe)
+[**ZavozLauncher-Setup-1.2.3.exe**](https://github.com/pykipyp123-prog/zavozcraft-launcher/releases/latest/download/ZavozLauncher-Setup-1.2.3.exe)
 
 Установщик весит около 3,2 МБ. Лаунчер сам скачает сборку, Java и .NET — ничего вручную искать не нужно.
 
